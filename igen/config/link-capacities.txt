@@ -1,0 +1,11 @@
+# IGen - configuration file
+#        capacities of links
+#
+# spec: each line contains a single link capacity
+34e6
+45e6
+155e6
+622e6
+1e9
+2.4e9
+1e10

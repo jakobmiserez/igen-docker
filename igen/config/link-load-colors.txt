@@ -1,0 +1,13 @@
+# IGen - configuration file
+#        colors used to display link load
+#
+# spec: - each line contains a single color
+#       - colors are used from the first (0%) to the last one (100%)
+black
+darkgreen
+green
+green yellow
+yellow
+orange
+dark orange
+red

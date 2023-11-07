@@ -1,0 +1,26 @@
+-----------------------------=[ IGen ]=------------------------------
+       Topology generation through network design heuristics
+---------------------------------------------------------------------
+
+Installation instructions
+-------------------------
+
+IGen is written in Perl/Tk. In order to use it, you first have to
+unarchive it in a dedicated directory. To run it, just type
+
+  ./igen-gui.pl
+
+
+Requirements
+------------
+
+In order to be run, IGen will need a recent version of Perl compiled
+with threads. I use Perl v5.8.6 but other versions might work as
+well. Run 'perl -version' in order to check the version of Perl on
+your computer.
+
+In addition, IGen will need the Perl/Tk module. You can install it
+on your computer using the 'cpan' utility: 'cpan Tk'
+
+IGen also require the CPAN Graph-0.20105 module as well as the CPAN
+Statistics module.

@@ -1,0 +1,28 @@
+-----------------------------=[ IGen ]=------------------------------
+       Topology generation through network design heuristics
+---------------------------------------------------------------------
+
+Introduction
+------------
+
+IGen is a network topology generator. Unlike GT-ITM and BRITE,
+IGen does not rely on probabilistic methods to generate network
+topologies. Since real networks are the outcome of a careful network
+design, IGen implements various network design heuristics such
+as MENTOR, MENTour, Delaunay triangulation and Two Trees for the
+purpose of building network topologies.
+
+IGen is written in Perl/Tk and is provided under the LGPL
+license (http://www.gnu.org/copyleft/lesser.html).
+
+
+Author
+------
+
+Bruno Quoitin (bruno.quoitin@uclouvain.be)
+IP Networking Lab (INL)
+Computer Science and Engineering Department
+Universite catholique de Louvain
+Place Sainte-Barbe, 2
+1348 Louvain-la-Neuve
+Belgium

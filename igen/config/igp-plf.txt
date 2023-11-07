@@ -1,0 +1,8 @@
+# IGen - configuration file
+#        piecewise linear function used to build IGP weights based on distance
+#
+# spec: - each line describes a step of the function
+#       - each line contains two fields separated by a tabulation (\t)
+#       - first field: x-step, second field: slope of function
+5000	3
+1000	2

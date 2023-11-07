@@ -1,0 +1,13 @@
+# IGen - configuration file
+#        scaling factor used to display the link depth based on the capacity
+#
+# spec: - each line describes the scaling factor for a single capacity
+#       - each line contains two fields seperated by a tabulation (\t)
+#       - first field: capacity, second field: scaling factor
+34M	0.5
+45M	0.5
+155M	0.7
+622M	1
+1G	1.2
+2.4G	1.5
+10G	2
