@@ -1,2 +1,2 @@
 # igen-docker
-A docker image for the IGen network topology generator program.
+A docker image for the IGen network topology generator.
